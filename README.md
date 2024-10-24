@@ -8,9 +8,12 @@ Data Collection: Gathering large-scale weather data from the Copernicus (E-OBS d
 
 Location Mapping: Calculating the closest European weather station locations that correspond to the project’s MS patient locations.
 
-Data Imputation: Addressing missing data in certain locations using the K-Nearest Neighbor (KNN) imputation method, with Euclidean distance as the metric.
-
 Dataset Preparation: Preparing the weather dataset to be integrated with air quality data, another key dataset collected within the project.
+(All three above in one script: WeatherDataCollection Python Code)
+
+Data Imputation: Addressing missing data in certain locations using the K-Nearest Neighbor (KNN) imputation method, with Euclidean distance as the metric. (Missing_Weather_Data_Imputation Python Code)
+
+
     
 In this project, clinical and environmental data, including air pollution and weather data, are being collected from 2011 to 2024. As a result, the weather data is organized into four parts based on the collection years: 2011 to 2021, 2022, 2023, 2024
 

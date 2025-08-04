@@ -1,4 +1,4 @@
-# 🧠 BRAINTEASER
+# 🧠 BRAINTEASER - Weather Conditions Data Collection
 
 The BrainTeaser Project is a large-scale, multinational data science initiative conducted across Spain, Italy, and Portugal. It aims to enhance clinical support for patients with Amyotrophic Lateral Sclerosis (ALS) and Multiple Sclerosis (MS) by integrating multimodal data from clinical records, environmental monitoring, and patient-generated sources. Utilizing cost-effective sensors and smart applications, BrainTeaser collects and analyzes health, lifestyle, and environmental data to deliver personalized, data-driven insights for both patients and clinicians.
 
